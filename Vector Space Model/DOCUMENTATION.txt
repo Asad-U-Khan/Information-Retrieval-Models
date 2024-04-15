@@ -1,0 +1,12 @@
+FILES DOCUMENTATION
+
+The folder consists of three files
+
+- VSM.py: This contains the implementation of vector space model and query processing
+
+- main.py: Over here the main python gui is implemented and you need to run this file. Gui has been implemented
+                 using Python's pygame library.
+
+- output.csv file is created when the code is run that contains all the documents vectors, normalized tf*idf vectors and terms tf. 
+
+- When you run the main python file a gui appears and in search bar you can type your query.
