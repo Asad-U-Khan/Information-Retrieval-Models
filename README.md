@@ -8,3 +8,6 @@ Implementation of Boolean IR model which uses inverted index and positional inde
 Vector Space Model
 Implementation of VSM which uses inverted index to solve user free text queries
 
+Language: Python
+GUI: Pygame
+
